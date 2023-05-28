@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Fashionavia](https://fashionavia.com/)
 
-- 📫 How to reach me **dannyalalam09@gmail.com**
+- 📫 You can contact me at **dannyalalam09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
