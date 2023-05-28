@@ -1,10 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniyal Alam
 =============================================================================================================================================
-
-<h3>A passionate React JS frontend developer from Pakistan.</h3>
+A passionate React JS frontend developer from Pakistan
 ---------------------------------------------------
-
-Top-rated certified senior web developer with over 9 years of professional experience specializing in WordPress customization, bug fixing, plugin/theme development, custom PHP / Laravel applications, web scraping, automation, and cloud computing, etc.
+Top-rated certified React web developer with over 1 year of professional experience.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniyalalam09&label=Profile%20views&color=0e75b6&style=flat" alt="daniyalalam09" /> </p>
