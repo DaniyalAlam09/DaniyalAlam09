@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniyal Alam
 =============================================================================================================================================
-A passionate React JS frontend developer from Pakistan
+A Passionate MERN Stack Developer from Pakistan
 ---------------------------------------------------
 Top-rated certified React web developer with over 1 year of professional experience.
 
