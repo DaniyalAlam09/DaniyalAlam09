@@ -14,7 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniyalalam09&label=Profile%20views&color=0e75b6&style=flat" alt="daniyalalam09" /> </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=DaniyalAlam09&theme=radical&hide_border=true&include_all_commits=false&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=daniyalalam09&theme=radical&hide_border=true&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=daniyalalam09&theme=radical&hide_border=false&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalAlam09&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
 
 ---
@@ -28,7 +28,7 @@
 <a href="https://www.instagram.com/dannyalalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dannyalalam" height="30" width="40" /></a>
 </p>
  
- 
+
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
