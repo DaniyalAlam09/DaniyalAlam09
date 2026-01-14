@@ -1,5 +1,16 @@
 # 💫 About Me:
-Hi 👋, I'm Daniyal Alam 👋<br>👨‍💻 MERN Stack Developer: Proficient in MongoDB, Express.js, React, and Node.js.<br>🎨 Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, Tailwind CSS, Bootstrap, Material UI, Ant Design, Chakra UI, Next.js and React.js.<br>🚀 Backend: Experience with Express.js, Node.js, and MongoDB for building RESTful APIs.<br>🔄 State Management: Knowledgeable in Redux for large-scale React applications.<br>📱 UI/UX: Familiar with Figma.<br>📝 Version Control: Git/GitHub proficiency.<br>☁️ Deployment: Experienced in deploying on Vercel, Cycliyc, Render and Netlify.<br>✔️ Testing: Familiar with Jest, and React Testing Library.<br>🔍 Problem-solving: Strong debugging skills.<br>💬 Communication: Effective team collaboration.
+Hi 👋, I'm Daniyal Alam 👋<br>
+👨‍💻 Full Stack Developer (MERN & Python): Proficient in MongoDB, Express.js, React, Node.js, Python, Django, and FastAPI.<br>
+🎨 Frontend: Strong in HTML5, CSS3, SASS/SCSS, JavaScript, Tailwind CSS, Bootstrap, Material UI, Ant Design, Chakra UI, React.js, and Next.js.<br>
+🚀 Backend: Experience with Node.js, Express.js, Django, FastAPI, MongoDB, PostgreSQL, and SQL for building RESTful APIs.<br>
+🔄 State Management: Knowledgeable in Redux for large-scale React applications.<br>
+🐳 DevOps & CI/CD: Familiar with Docker and GitHub Actions for automation and deployments.<br>
+📱 UI/UX: Familiar with Figma.<br>
+📝 Version Control: Git/GitHub proficiency.<br>
+☁️ Deployment: Experienced in deploying on Vercel, Cyclic, Render, and Netlify.<br>
+✔️ Testing: Familiar with Jest and React Testing Library.<br>
+🔍 Problem-solving: Strong debugging skills.<br>
+💬 Communication: Effective team collaboration.
 
 
 ## 🌐 Socials:
