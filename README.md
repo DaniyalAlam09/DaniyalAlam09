@@ -1,6 +1,6 @@
 # Daniyal Alam
 
-### Senior Frontend / Full-Stack Developer
+### Full-Stack Developer
 
 I’m a software engineer focused on building scalable web applications, SaaS products, and modern digital experiences.
 
